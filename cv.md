@@ -25,3 +25,16 @@ I am very interested in front-end development. Front-end for me is an opportunit
 ### 5. Experience:
 
 I have developed a site on the **Joomla** platform: [www.extension-pro.com](https://extension-pro.com/) The site is functional and accessible to users. I also know platforms like **WIX** and **Tilda**. In my professional career, based on Excel, I developed multifactor business models. For example, for the [Extension Pro](https://extension-pro.com/) project, a management accounting system was developed: accounting of orders, accounting for stock balances, calculating the demand for orders from suppliers, calculating margin, a system of sales reports.
+
+### 6. Education:
+
+   - 08.1995 - 07.1999\
+   Khmelnytsky National Academy of Border Troops of Ukraine, Faculty of Internal Troops, specialty Personnel military, Khmelnytsky;
+   - 09.2004 - 06.2008\
+   Dnipropetrovsk University of Economics and Law, Faculty of Finance and Economics, specialty Marketing, Dnipro;
+   - Business trainings within the companies in which I worked previously;
+   - Front-end: self-education on Udemy, Stepik, etc.
+
+### 7. English language:
+
+   - Level A2
